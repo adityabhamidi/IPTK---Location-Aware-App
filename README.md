@@ -1,1 +1,0 @@
-# IPTK - Location-Aware-App
