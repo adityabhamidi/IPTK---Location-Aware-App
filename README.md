@@ -1,4 +1,4 @@
-# MyPlaces
+# MyPlaces_Client
 
 This app was developed as a part of Internet Praktikum Course at Telecooperation Group, TU Darmstadt
 
